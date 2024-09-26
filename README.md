@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pabx11
+- 👋 Hi, I’m @Pablo_x
 - 👀 I’m interested in ...Back-end development & Cyber security
 - 🌱 I’m currently learning ...VB.Net
 - 💞️ I’m looking to collaborate on ..VB.net
-- 📫 How to reach me ...
+- 📫 How to reach me ...paballo.School@gmail.com 
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
