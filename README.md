@@ -6,10 +6,10 @@
 Full-Stack Development • Machine Learning • Web & Mobile App Development • Backend Engineering
 
 🧠 Currently Learning:
-VB.Net · HTML5 · CSS3 · JavaScript · Java · React.js · Node.js · PHP · Azure Cloud · Oracle 12c · MySQL · Business Analysis
+VB.Net · HTML5 · CSS3 · JavaScript · Java · React.js · Azure Cloud · Oracle 12c · MySQL · Business Analysis
 
 🤝 Open To Collaborate On:
-Web Applications & Innovative Software Projects
+Web Applications | Innovative Software Projects | Mobile Applications
 
 📫 Reach Me:
 
